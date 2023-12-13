@@ -22,10 +22,10 @@
 <summary>2-Config service</summary><br>
 
 -Ce fichier contient le lien du référentiel qui regroupe tous les fichiers de configuration d'autres services :<br>
-![2][config](https://github.com/Fatima-ACHBAD/E_commerce_application_with_micro_service/assets/100408189/cc5286b3-eb65-4674-a681-67894ccb5b1a)<br><br>
+![config](https://github.com/Fatima-ACHBAD/E_commerce_application_with_micro_service/assets/100408189/cc5286b3-eb65-4674-a681-67894ccb5b1a)<br><br>
 -l'annotation @EnableConfigServer active le serveur de configuration, tandis que l'annotation @EnableDiscoveryClient active le client de découverte pour faciliter la gestion des microservices dans un environnement distribué.<br>
 
-![3][discovery](https://github.com/Fatima-ACHBAD/E_commerce_application_with_micro_service/assets/100408189/d691b956-af8d-4485-9478-5d3b2738196e)<br><br>
+![discovery](https://github.com/Fatima-ACHBAD/E_commerce_application_with_micro_service/assets/100408189/d691b956-af8d-4485-9478-5d3b2738196e)<br><br>
 -aprés le démmarage de config service il s'ajoute au niveau de consul.<br>
 
 </details>
